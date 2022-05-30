@@ -1,11 +1,7 @@
 # Plant Disease Detector
 A Flutter app that detects a plant's disease given a photo of an affected part of the plant.
 
-## Visuals
-<img src="plant_disease_detector.gif" height="500">
-
-
-
+---
 ## Usage
 
 On launching the application, you will be presented with the usage instructons. It follows that to get a suggestion of a disease affecting a plant of interest, take a photo of the plant, or select a photo of the plant from your `gallery`.
